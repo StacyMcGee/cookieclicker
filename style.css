@@ -3287,35 +3287,6 @@ SUPPORT
 }
 
 /*=====================================================================================
-NEW AD DISPLAY
-=======================================================================================*/
-/*
-#sectionRight
-{
-	right:160px;
-}
-#sectionMiddle
-{
-	right:478px;
-}
-#sectionAd
-{
-	height:100%;
-	position:absolute;
-	top:0px;
-	right:0px;
-	overflow-x:hidden;
-	width:160px;
-	background:url(img/darkNoise.jpg);
-}
-.separatorRight
-{
-	right:477px;
-}
-#sectionAd .supportPlaceholder {width:160px;}
-*/
-
-/*=====================================================================================
 STOP THE FANCY
 =======================================================================================*/
 .noFancy *
