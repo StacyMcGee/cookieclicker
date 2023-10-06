@@ -8546,7 +8546,7 @@ Game.Launch=function()
 		}
 		Game.BuildStore=function()//create the DOM for the store's buildings
 		{
-			//if (typeof showAds!=='undefined') l('store').scrollTop=100;
+			//if (typeof showAds!=='undefined') l('store').scrollTop=80;
 			
 			var str='';
 			str+='<div id="storeBulk" class="storePre" '+Game.getTooltip(
